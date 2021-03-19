@@ -1,20 +1,14 @@
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+# <a href="https://github.com/Shrey03/Assignment3-TwilioBot-ChatBot" target="_blank">ES6 Twilio Chatbot</a>
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+To add this simply write "GIT CLONE https://github.com/Shrey03/Assignment3-TwilioBot-ChatBot".
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+Next step 
+Open Terminal and type command -- NPM INSTALL
 
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
-
-Marking
+FInal step to start this project is NPM START or NPM Index.js
 -----
 
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 60|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
+
 
 
 
